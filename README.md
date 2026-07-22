@@ -1,5 +1,4 @@
 # Industry-Research-Desk
-Independent-style market briefs covering industry size, growth drivers, technology shifts, risks, and business implications.
 Industry Research Desk is a public library of concise market briefs covering
 industry size, growth drivers, technology developments, competitive conditions,
 supply-chain risks, and business implications.
